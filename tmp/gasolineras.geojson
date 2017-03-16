@@ -1,0 +1,4741 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-16T08:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23950608",
+      "properties": {
+        "@id": "way/23950608",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Repsol",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7173814,
+              39.6158045
+            ],
+            [
+              2.7176263,
+              39.615601
+            ],
+            [
+              2.7176886,
+              39.6155381
+            ],
+            [
+              2.718067,
+              39.6158256
+            ],
+            [
+              2.7179946,
+              39.6158814
+            ],
+            [
+              2.7177495,
+              39.6160702
+            ],
+            [
+              2.7173814,
+              39.6158045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24745076",
+      "properties": {
+        "@id": "way/24745076",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "opening_hours": "24/7",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6638441,
+              39.5653406
+            ],
+            [
+              2.6631294,
+              39.5653987
+            ],
+            [
+              2.6630119,
+              39.5651152
+            ],
+            [
+              2.6641089,
+              39.564925
+            ],
+            [
+              2.6641109,
+              39.5649567
+            ],
+            [
+              2.6638441,
+              39.5653406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39250832",
+      "properties": {
+        "@id": "way/39250832",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "BP",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5021362,
+              39.5295792
+            ],
+            [
+              2.5017596,
+              39.5293023
+            ],
+            [
+              2.5018272,
+              39.5292416
+            ],
+            [
+              2.5022563,
+              39.5294799
+            ],
+            [
+              2.5021362,
+              39.5295792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49712889",
+      "properties": {
+        "@id": "way/49712889",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "kiosk": "yes",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6306502,
+              39.5830324
+            ],
+            [
+              2.6305939,
+              39.582982
+            ],
+            [
+              2.6306292,
+              39.5829585
+            ],
+            [
+              2.6307372,
+              39.5828867
+            ],
+            [
+              2.6307746,
+              39.5828618
+            ],
+            [
+              2.6308361,
+              39.5829167
+            ],
+            [
+              2.6308198,
+              39.5829275
+            ],
+            [
+              2.6309232,
+              39.5830198
+            ],
+            [
+              2.6308016,
+              39.5831007
+            ],
+            [
+              2.6306932,
+              39.5830038
+            ],
+            [
+              2.6306502,
+              39.5830324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61450195",
+      "properties": {
+        "@id": "way/61450195",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.2261959,
+              39.3798106
+            ],
+            [
+              3.2262077,
+              39.3797937
+            ],
+            [
+              3.2262252,
+              39.3797993
+            ],
+            [
+              3.2262485,
+              39.3797702
+            ],
+            [
+              3.2262921,
+              39.379748
+            ],
+            [
+              3.2263277,
+              39.37974
+            ],
+            [
+              3.2265054,
+              39.3797045
+            ],
+            [
+              3.2265675,
+              39.3796898
+            ],
+            [
+              3.2266087,
+              39.3796894
+            ],
+            [
+              3.2266806,
+              39.379709
+            ],
+            [
+              3.226792,
+              39.3797413
+            ],
+            [
+              3.2268777,
+              39.3797661
+            ],
+            [
+              3.2269839,
+              39.3797969
+            ],
+            [
+              3.2271531,
+              39.3798459
+            ],
+            [
+              3.2273946,
+              39.3799159
+            ],
+            [
+              3.2274771,
+              39.3799397
+            ],
+            [
+              3.2275794,
+              39.3799694
+            ],
+            [
+              3.2272692,
+              39.3803426
+            ],
+            [
+              3.2261959,
+              39.3798106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81151753",
+      "properties": {
+        "@id": "way/81151753",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol",
+        "source": "ideib"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.9017878,
+              39.711692
+            ],
+            [
+              2.90208,
+              39.7115914
+            ],
+            [
+              2.9021596,
+              39.7117283
+            ],
+            [
+              2.9019693,
+              39.7117938
+            ],
+            [
+              2.9019958,
+              39.7118393
+            ],
+            [
+              2.9018939,
+              39.7118744
+            ],
+            [
+              2.9017878,
+              39.711692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81151756",
+      "properties": {
+        "@id": "way/81151756",
+        "addr:country": "ES",
+        "addr:street": "Avinguda Jaume I, 143 (C-713 km 29)",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Inca",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "source": "mityc 20100729",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.915516,
+              39.7166751
+            ],
+            [
+              2.9154489,
+              39.7165577
+            ],
+            [
+              2.9155754,
+              39.716515
+            ],
+            [
+              2.9156425,
+              39.7166323
+            ],
+            [
+              2.915516,
+              39.7166751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81151762",
+      "properties": {
+        "@id": "way/81151762",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA PALMA-ALCUDIA CRUCE CTRA.SENCELLES KM. S/N",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Inca",
+        "is_in:province": "Illes Balears",
+        "name": "BP",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.9090117,
+              39.7111801
+            ],
+            [
+              2.9090392,
+              39.7110506
+            ],
+            [
+              2.9091492,
+              39.710867
+            ],
+            [
+              2.9100183,
+              39.7109722
+            ],
+            [
+              2.9098144,
+              39.7112549
+            ],
+            [
+              2.9096562,
+              39.7114715
+            ],
+            [
+              2.9090117,
+              39.7111801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82518934",
+      "properties": {
+        "@id": "way/82518934",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol",
+        "old_name": "BP",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7348198,
+              39.5353845
+            ],
+            [
+              2.7350543,
+              39.5353879
+            ],
+            [
+              2.7352349,
+              39.5355983
+            ],
+            [
+              2.7349885,
+              39.5357106
+            ],
+            [
+              2.7348092,
+              39.5354804
+            ],
+            [
+              2.7348198,
+              39.5353845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82518950",
+      "properties": {
+        "@id": "way/82518950",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7453102,
+              39.5409871
+            ],
+            [
+              2.7455906,
+              39.5407574
+            ],
+            [
+              2.7457211,
+              39.5408521
+            ],
+            [
+              2.7454407,
+              39.5410818
+            ],
+            [
+              2.7453102,
+              39.5409871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98940648",
+      "properties": {
+        "@id": "way/98940648",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "highway": "service",
+        "name": "BP",
+        "source": "Vicmier"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.3195904,
+              39.5497808
+            ],
+            [
+              3.3195482,
+              39.5497171
+            ],
+            [
+              3.3197433,
+              39.5496402
+            ],
+            [
+              3.3197856,
+              39.5497039
+            ],
+            [
+              3.3195904,
+              39.5497808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118962195",
+      "properties": {
+        "@id": "way/118962195",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol",
+        "source": "cadastre;ideib WMS layer (see wiki)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0059076,
+              39.6460277
+            ],
+            [
+              3.006021,
+              39.6459584
+            ],
+            [
+              3.0060718,
+              39.6460036
+            ],
+            [
+              3.0061463,
+              39.6460475
+            ],
+            [
+              3.006197,
+              39.6460774
+            ],
+            [
+              3.0059975,
+              39.6461813
+            ],
+            [
+              3.0059813,
+              39.6461452
+            ],
+            [
+              3.0059467,
+              39.6460683
+            ],
+            [
+              3.0059076,
+              39.6460277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120347812",
+      "properties": {
+        "@id": "way/120347812",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Campsa",
+        "source": "ideib WMS layer (see wiki)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1341027,
+              39.5756145
+            ],
+            [
+              3.1341051,
+              39.5755891
+            ],
+            [
+              3.1341216,
+              39.5754115
+            ],
+            [
+              3.1344404,
+              39.5754291
+            ],
+            [
+              3.1344277,
+              39.5755661
+            ],
+            [
+              3.134324,
+              39.5755604
+            ],
+            [
+              3.1343225,
+              39.5755772
+            ],
+            [
+              3.1342522,
+              39.5755733
+            ],
+            [
+              3.1342509,
+              39.5755877
+            ],
+            [
+              3.1342477,
+              39.5756225
+            ],
+            [
+              3.1341027,
+              39.5756145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120414514",
+      "properties": {
+        "@id": "way/120414514",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Campsa",
+        "source": "ideib WMS layer (see wiki)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1336176,
+              39.5761826
+            ],
+            [
+              3.1336212,
+              39.5760721
+            ],
+            [
+              3.1337104,
+              39.5760738
+            ],
+            [
+              3.1337108,
+              39.5760587
+            ],
+            [
+              3.1337117,
+              39.5760327
+            ],
+            [
+              3.1339167,
+              39.5760367
+            ],
+            [
+              3.1339147,
+              39.576099
+            ],
+            [
+              3.1339118,
+              39.5761882
+            ],
+            [
+              3.1336176,
+              39.5761826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151084652",
+      "properties": {
+        "@id": "way/151084652",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1089462,
+              39.6259568
+            ],
+            [
+              3.1090005,
+              39.6258066
+            ],
+            [
+              3.1091219,
+              39.6258326
+            ],
+            [
+              3.1091103,
+              39.6258647
+            ],
+            [
+              3.1091636,
+              39.6258761
+            ],
+            [
+              3.1091799,
+              39.6258311
+            ],
+            [
+              3.1092492,
+              39.625846
+            ],
+            [
+              3.1092252,
+              39.6259121
+            ],
+            [
+              3.1091803,
+              39.6259024
+            ],
+            [
+              3.1091451,
+              39.6259995
+            ],
+            [
+              3.1089462,
+              39.6259568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151626756",
+      "properties": {
+        "@id": "way/151626756",
+        "addr:country": "ES",
+        "addr:street": "CTA. MANACOR C-715 km 6.7",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "CASA BLANCA (SA)",
+        "is_in:province": "Illes Balears",
+        "name": "SON FERRIOL II",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.73573,
+              39.5708382
+            ],
+            [
+              2.7357304,
+              39.5707459
+            ],
+            [
+              2.7358503,
+              39.5707462
+            ],
+            [
+              2.7358511,
+              39.5705698
+            ],
+            [
+              2.7360551,
+              39.5705704
+            ],
+            [
+              2.7360543,
+              39.5707451
+            ],
+            [
+              2.7361812,
+              39.5707454
+            ],
+            [
+              2.7361807,
+              39.5708395
+            ],
+            [
+              2.73573,
+              39.5708382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157748496",
+      "properties": {
+        "@id": "way/157748496",
+        "addr:city": "Colònia de Sant Jordi",
+        "addr:country": "ES",
+        "addr:housenumber": "86",
+        "addr:postcode": "07638",
+        "addr:street": "avinguda del Marqués del Palmer",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Estació de Serveis",
+        "website": "http://www.esscolonia.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0000529,
+              39.3202063
+            ],
+            [
+              2.9999572,
+              39.3201205
+            ],
+            [
+              2.9999796,
+              39.3201057
+            ],
+            [
+              3.0000894,
+              39.3200322
+            ],
+            [
+              3.0001077,
+              39.3200201
+            ],
+            [
+              3.0002034,
+              39.3201059
+            ],
+            [
+              3.0000529,
+              39.3202063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165288696",
+      "properties": {
+        "@id": "way/165288696",
+        "amenity": "fuel",
+        "brand": "BP",
+        "building": "commercial",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6137433,
+              39.552584
+            ],
+            [
+              2.6137678,
+              39.5524801
+            ],
+            [
+              2.6139715,
+              39.5525087
+            ],
+            [
+              2.613947,
+              39.5526125
+            ],
+            [
+              2.6137433,
+              39.552584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202445608",
+      "properties": {
+        "@id": "way/202445608",
+        "addr:country": "ES",
+        "addr:housenumber": "15",
+        "addr:street": "CALLE MANUELA DE LOS HERREROS",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_C": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "CAN PASTILLA",
+        "is_in:province": "Illes Balears",
+        "name": "BP Arturo",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7275544,
+              39.5327061
+            ],
+            [
+              2.7273961,
+              39.5326854
+            ],
+            [
+              2.7274095,
+              39.5325966
+            ],
+            [
+              2.7275493,
+              39.5326051
+            ],
+            [
+              2.7275651,
+              39.5326255
+            ],
+            [
+              2.7275544,
+              39.5327061
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210312303",
+      "properties": {
+        "@id": "way/210312303",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "DISGASOIL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1475837,
+              39.3713504
+            ],
+            [
+              3.147472,
+              39.371216
+            ],
+            [
+              3.1477527,
+              39.3710741
+            ],
+            [
+              3.1478639,
+              39.3712082
+            ],
+            [
+              3.1475837,
+              39.3713504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223029942",
+      "properties": {
+        "@id": "way/223029942",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA CALA FIGUERA, EL TORO, SON FERRER KM. S/N",
+        "amenity": "fuel",
+        "brand": "Repsol",
+        "building": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "CALVIA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5185474,
+              39.5091818
+            ],
+            [
+              2.5185669,
+              39.5090515
+            ],
+            [
+              2.5186649,
+              39.5090602
+            ],
+            [
+              2.5186626,
+              39.5090751
+            ],
+            [
+              2.5186454,
+              39.5091905
+            ],
+            [
+              2.5185474,
+              39.5091818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223033942",
+      "properties": {
+        "@id": "way/223033942",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "brand": "BP",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "BP",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5184153,
+              39.5003033
+            ],
+            [
+              2.5183571,
+              39.5002785
+            ],
+            [
+              2.518485,
+              39.5000995
+            ],
+            [
+              2.5185432,
+              39.5001243
+            ],
+            [
+              2.5184153,
+              39.5003033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247999633",
+      "properties": {
+        "@id": "way/247999633",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "brand": "Repsol",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "landuse": "commercial",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6190189,
+              39.5854026
+            ],
+            [
+              2.6186034,
+              39.5851431
+            ],
+            [
+              2.6185613,
+              39.5851067
+            ],
+            [
+              2.6185376,
+              39.5850783
+            ],
+            [
+              2.6185429,
+              39.5850357
+            ],
+            [
+              2.6185534,
+              39.5850094
+            ],
+            [
+              2.6185718,
+              39.5849769
+            ],
+            [
+              2.6185718,
+              39.5849344
+            ],
+            [
+              2.6185745,
+              39.5848999
+            ],
+            [
+              2.6185692,
+              39.5848492
+            ],
+            [
+              2.6185876,
+              39.5848067
+            ],
+            [
+              2.6186349,
+              39.5847661
+            ],
+            [
+              2.6186849,
+              39.5847216
+            ],
+            [
+              2.6189611,
+              39.5845168
+            ],
+            [
+              2.6192162,
+              39.5847297
+            ],
+            [
+              2.6193056,
+              39.5847965
+            ],
+            [
+              2.6195318,
+              39.5849303
+            ],
+            [
+              2.6190189,
+              39.5854026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255687076",
+      "properties": {
+        "@id": "way/255687076",
+        "addr:country": "ES",
+        "addr:housenumber": "217",
+        "addr:street": "CALLE ARAGON",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6764693,
+              39.5893201
+            ],
+            [
+              2.6764157,
+              39.5893232
+            ],
+            [
+              2.6762815,
+              39.5892281
+            ],
+            [
+              2.6762789,
+              39.5891899
+            ],
+            [
+              2.6763473,
+              39.5891341
+            ],
+            [
+              2.6763969,
+              39.5890514
+            ],
+            [
+              2.6764545,
+              39.5890059
+            ],
+            [
+              2.6766477,
+              39.5891486
+            ],
+            [
+              2.6765203,
+              39.589254
+            ],
+            [
+              2.6765377,
+              39.5892674
+            ],
+            [
+              2.6764693,
+              39.5893201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260986548",
+      "properties": {
+        "@id": "way/260986548",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol",
+        "operator": "Campsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1148807,
+              39.8207491
+            ],
+            [
+              3.1148403,
+              39.8205357
+            ],
+            [
+              3.1148273,
+              39.8205367
+            ],
+            [
+              3.1147933,
+              39.8203594
+            ],
+            [
+              3.1149512,
+              39.8203403
+            ],
+            [
+              3.115019,
+              39.8207341
+            ],
+            [
+              3.1148807,
+              39.8207491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267311154",
+      "properties": {
+        "@id": "way/267311154",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "BP",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.911277,
+              39.7293672
+            ],
+            [
+              2.9115032,
+              39.729388
+            ],
+            [
+              2.9114771,
+              39.7295564
+            ],
+            [
+              2.9112509,
+              39.7295356
+            ],
+            [
+              2.911277,
+              39.7293672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291881150",
+      "properties": {
+        "@id": "way/291881150",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "kiosk": "yes",
+        "name": "BP Sant Ferrran",
+        "operator": "BP",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6360448,
+              39.5794474
+            ],
+            [
+              2.6360595,
+              39.5794584
+            ],
+            [
+              2.636044,
+              39.5794731
+            ],
+            [
+              2.6359379,
+              39.5793957
+            ],
+            [
+              2.6359591,
+              39.5793788
+            ],
+            [
+              2.6359408,
+              39.5792792
+            ],
+            [
+              2.6359852,
+              39.579233
+            ],
+            [
+              2.6359707,
+              39.5792702
+            ],
+            [
+              2.6359792,
+              39.5793837
+            ],
+            [
+              2.6360448,
+              39.5794474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304405423",
+      "properties": {
+        "@id": "way/304405423",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6263838,
+              39.5655622
+            ],
+            [
+              2.6264748,
+              39.5655414
+            ],
+            [
+              2.6265285,
+              39.565682
+            ],
+            [
+              2.6264142,
+              39.5656989
+            ],
+            [
+              2.6263838,
+              39.5655622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333228456",
+      "properties": {
+        "@id": "way/333228456",
+        "amenity": "fuel",
+        "name": "Magatzem de butà"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6583039,
+              39.6058985
+            ],
+            [
+              2.6574963,
+              39.6055096
+            ],
+            [
+              2.6577503,
+              39.6053026
+            ],
+            [
+              2.657949,
+              39.6049852
+            ],
+            [
+              2.6587534,
+              39.6053741
+            ],
+            [
+              2.6583039,
+              39.6058985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352362509",
+      "properties": {
+        "@id": "way/352362509",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6567272,
+              39.566693
+            ],
+            [
+              2.6567204,
+              39.5666328
+            ],
+            [
+              2.6568152,
+              39.5666265
+            ],
+            [
+              2.656822,
+              39.5666866
+            ],
+            [
+              2.6567272,
+              39.566693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365006979",
+      "properties": {
+        "@id": "way/365006979",
+        "amenity": "fuel",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7561981,
+              39.5474799
+            ],
+            [
+              2.7559415,
+              39.5473066
+            ],
+            [
+              2.7568829,
+              39.54696
+            ],
+            [
+              2.7570864,
+              39.5471851
+            ],
+            [
+              2.7561981,
+              39.5474799
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369547843",
+      "properties": {
+        "@id": "way/369547843",
+        "amenity": "fuel",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7237064,
+              39.6263051
+            ],
+            [
+              2.7233177,
+              39.6260056
+            ],
+            [
+              2.7239759,
+              39.6254612
+            ],
+            [
+              2.7240306,
+              39.6255008
+            ],
+            [
+              2.7243152,
+              39.6257025
+            ],
+            [
+              2.7243603,
+              39.6257402
+            ],
+            [
+              2.7237064,
+              39.6263051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369683195",
+      "properties": {
+        "@id": "way/369683195",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0523725,
+              39.7416921
+            ],
+            [
+              3.0523408,
+              39.7415492
+            ],
+            [
+              3.0525423,
+              39.7415227
+            ],
+            [
+              3.052574,
+              39.7416656
+            ],
+            [
+              3.0523725,
+              39.7416921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369685165",
+      "properties": {
+        "@id": "way/369685165",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "CEPSA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0169495,
+              39.7715836
+            ],
+            [
+              3.0168072,
+              39.7715113
+            ],
+            [
+              3.0169099,
+              39.771392
+            ],
+            [
+              3.0170521,
+              39.7714643
+            ],
+            [
+              3.0169495,
+              39.7715836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370445584",
+      "properties": {
+        "@id": "way/370445584",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.8341812,
+              39.6127578
+            ],
+            [
+              2.8341972,
+              39.6126356
+            ],
+            [
+              2.8342845,
+              39.6126424
+            ],
+            [
+              2.8342904,
+              39.6125979
+            ],
+            [
+              2.8344053,
+              39.6126068
+            ],
+            [
+              2.8343835,
+              39.6127735
+            ],
+            [
+              2.8341812,
+              39.6127578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372527560",
+      "properties": {
+        "@id": "way/372527560",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6607215,
+              39.582212
+            ],
+            [
+              2.6607459,
+              39.582138
+            ],
+            [
+              2.6610146,
+              39.5821016
+            ],
+            [
+              2.6609381,
+              39.5823413
+            ],
+            [
+              2.6607215,
+              39.582212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372562227",
+      "properties": {
+        "@id": "way/372562227",
+        "amenity": "fuel",
+        "name": "Balmes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6591448,
+              39.5804982
+            ],
+            [
+              2.6588799,
+              39.5801949
+            ],
+            [
+              2.6594216,
+              39.5799984
+            ],
+            [
+              2.6595778,
+              39.580105
+            ],
+            [
+              2.6591448,
+              39.5804982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372676441",
+      "properties": {
+        "@id": "way/372676441",
+        "amenity": "fuel",
+        "name": "Petronor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.360239,
+              39.6961396
+            ],
+            [
+              3.3594247,
+              39.695761
+            ],
+            [
+              3.3595557,
+              39.695556
+            ],
+            [
+              3.3599103,
+              39.6956106
+            ],
+            [
+              3.3605892,
+              39.6958966
+            ],
+            [
+              3.360239,
+              39.6961396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374457162",
+      "properties": {
+        "@id": "way/374457162",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.207119,
+              39.5614472
+            ],
+            [
+              3.2069594,
+              39.5612708
+            ],
+            [
+              3.2070964,
+              39.5611972
+            ],
+            [
+              3.207256,
+              39.5613735
+            ],
+            [
+              3.207119,
+              39.5614472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/376045859",
+      "properties": {
+        "@id": "way/376045859",
+        "amenity": "fuel",
+        "name": "Gasoils Sanbi",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0314409,
+              39.8861164
+            ],
+            [
+              3.0309259,
+              39.8859114
+            ],
+            [
+              3.0317028,
+              39.8858313
+            ],
+            [
+              3.0314409,
+              39.8861164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377332426",
+      "properties": {
+        "@id": "way/377332426",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.9879729,
+              39.560793
+            ],
+            [
+              2.9880323,
+              39.5607932
+            ],
+            [
+              2.9880326,
+              39.5606976
+            ],
+            [
+              2.9880327,
+              39.5606872
+            ],
+            [
+              2.9881585,
+              39.5606875
+            ],
+            [
+              2.9881584,
+              39.5606996
+            ],
+            [
+              2.9881578,
+              39.5608838
+            ],
+            [
+              2.9879726,
+              39.5608834
+            ],
+            [
+              2.9879729,
+              39.560793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379845992",
+      "properties": {
+        "@id": "way/379845992",
+        "addr:country": "ES",
+        "addr:housenumber": "90",
+        "addr:street": "CALLE CAPITAN SALOM",
+        "amenity": "fuel",
+        "building": "roof",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "layer": "1",
+        "name": "Amanecer",
+        "opening_hours": "24/7",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6545731,
+              39.5945329
+            ],
+            [
+              2.6545372,
+              39.5944152
+            ],
+            [
+              2.6546008,
+              39.5944037
+            ],
+            [
+              2.6546935,
+              39.5943869
+            ],
+            [
+              2.6547294,
+              39.5945046
+            ],
+            [
+              2.6546327,
+              39.5945221
+            ],
+            [
+              2.6545731,
+              39.5945329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386703831",
+      "properties": {
+        "@id": "way/386703831",
+        "amenity": "fuel",
+        "building": "yes",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6255333,
+              39.5711341
+            ],
+            [
+              2.6255298,
+              39.5710223
+            ],
+            [
+              2.6256873,
+              39.5710004
+            ],
+            [
+              2.6256891,
+              39.5711259
+            ],
+            [
+              2.6255333,
+              39.5711341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/430153848",
+      "properties": {
+        "@id": "way/430153848",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Cepsa",
+        "opening_hours": "24/7",
+        "operator": "Cepsa",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5417937,
+              39.5279358
+            ],
+            [
+              2.5416557,
+              39.5279298
+            ],
+            [
+              2.5414882,
+              39.5279225
+            ],
+            [
+              2.5414931,
+              39.5278552
+            ],
+            [
+              2.5417986,
+              39.5278685
+            ],
+            [
+              2.5417937,
+              39.5279358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442655717",
+      "properties": {
+        "@id": "way/442655717",
+        "addr:country": "ES",
+        "addr:street": "CL CAMINO CA,N PASTILLA, 37 (CAMNIO CAN PASTILLA 37)",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "payment:credit_cards": "yes",
+        "source": "mityc 20100729;survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7031545,
+              39.5479083
+            ],
+            [
+              2.7032704,
+              39.547829
+            ],
+            [
+              2.7033074,
+              39.5478612
+            ],
+            [
+              2.7031915,
+              39.5479405
+            ],
+            [
+              2.7031545,
+              39.5479083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461763079",
+      "properties": {
+        "@id": "way/461763079",
+        "amenity": "fuel",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.71364,
+              39.5715822
+            ],
+            [
+              2.7136691,
+              39.5714946
+            ],
+            [
+              2.7139183,
+              39.5714823
+            ],
+            [
+              2.7138907,
+              39.5716328
+            ],
+            [
+              2.71364,
+              39.5715822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/473894518",
+      "properties": {
+        "@id": "way/473894518",
+        "amenity": "fuel",
+        "building": "roof",
+        "name": "Petroest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6748008,
+              39.5891843
+            ],
+            [
+              2.674877,
+              39.589237
+            ],
+            [
+              2.6746051,
+              39.5894706
+            ],
+            [
+              2.6745289,
+              39.5894179
+            ],
+            [
+              2.6748008,
+              39.5891843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26489907",
+      "properties": {
+        "@id": "node/26489907",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8654157,
+          39.7077031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26730654",
+      "properties": {
+        "@id": "node/26730654",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6640715,
+          39.6299441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26730674",
+      "properties": {
+        "@id": "node/26730674",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "opening_hours": "06:00-22:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6902774,
+          39.7127812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26735844",
+      "properties": {
+        "@id": "node/26735844",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6097484,
+          39.7127928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/142738715",
+      "properties": {
+        "@id": "node/142738715",
+        "amenity": "fuel",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0773528,
+          39.9047483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252119229",
+      "properties": {
+        "@id": "node/252119229",
+        "amenity": "fuel",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2259985,
+          39.7030739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269635563",
+      "properties": {
+        "@id": "node/269635563",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9894835,
+          39.7754859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287007683",
+      "properties": {
+        "@id": "node/287007683",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "BP",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "BP",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6256454,
+          39.5710805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287007704",
+      "properties": {
+        "@id": "node/287007704",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Campsa",
+        "opening_hours": "24/7",
+        "operator": "Campsa",
+        "payment:credit_cards": "yes",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6361373,
+          39.5717608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287007994",
+      "properties": {
+        "@id": "node/287007994",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7567625,
+          39.648265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008003",
+      "properties": {
+        "@id": "node/287008003",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "BP",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "BP",
+        "source": "mytic 20080811",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7530631,
+          39.51182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008043",
+      "properties": {
+        "@id": "node/287008043",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7224896,
+          39.5459849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008053",
+      "properties": {
+        "@id": "node/287008053",
+        "addr:country": "ES",
+        "addr:street": "CR C-715, Nº 336 (C-715 KM 5.7)",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7210651,
+          39.5711659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008063",
+      "properties": {
+        "@id": "node/287008063",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7084437,
+          39.7659459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008081",
+      "properties": {
+        "@id": "node/287008081",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6854296,
+          39.576103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008085",
+      "properties": {
+        "@id": "node/287008085",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6760457,
+          39.5742354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008086",
+      "properties": {
+        "@id": "node/287008086",
+        "addr:country": "ES",
+        "addr:street": "CALLE CAMI VELL DE NUBYOLA, S/N",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6745702,
+          39.6023268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008089",
+      "properties": {
+        "@id": "node/287008089",
+        "addr:country": "ES",
+        "addr:street": "CL ARAGON, 180A",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6715232,
+          39.5842611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008112",
+      "properties": {
+        "@id": "node/287008112",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 24/7",
+        "ref": "15550",
+        "self_service": "no",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6528586,
+          39.5864269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008121",
+      "properties": {
+        "@id": "node/287008121",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0160194,
+          39.8738827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008125",
+      "properties": {
+        "@id": "node/287008125",
+        "addr:country": "ES",
+        "addr:street": "CR PM-503 MONTU KM 5.5",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PORRERES",
+        "is_in:province": "Illes Balears",
+        "name": "BP",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "BP",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0196958,
+          39.5202099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008136",
+      "properties": {
+        "@id": "node/287008136",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "06:00-22:00",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0241057,
+          39.4263875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008307",
+      "properties": {
+        "@id": "node/287008307",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Campsa",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Campsa",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8959244,
+          39.5675001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008312",
+      "properties": {
+        "@id": "node/287008312",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "loc_name": "Benzinera de Lluc",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8899036,
+          39.8125486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008329",
+      "properties": {
+        "@id": "node/287008329",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA SANTA MARIA-SENCELLES KM 9.9",
+        "amenity": "fuel",
+        "fuel:1_25": "no",
+        "fuel:1_50": "no",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:e10": "yes",
+        "fuel:octane_100": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "no",
+        "is_in:municipality": "SENCELLES",
+        "is_in:province": "Illes Balears",
+        "name": "Campsa",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Campsa",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8785982,
+          39.645565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008343",
+      "properties": {
+        "@id": "node/287008343",
+        "addr:country": "ES",
+        "addr:housenumber": "5",
+        "addr:street": "CR PM-602",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "ARENAL (S')",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 08:00-20:00",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8322035,
+          39.4843773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008396",
+      "properties": {
+        "@id": "node/287008396",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3468853,
+          39.6898015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008589",
+      "properties": {
+        "@id": "node/287008589",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "REPSOL",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0680179,
+          39.5698189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008602",
+      "properties": {
+        "@id": "node/287008602",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "BP Gelabert 2",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "BP",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0297865,
+          39.7655594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008657",
+      "properties": {
+        "@id": "node/287008657",
+        "addr:country": "ES",
+        "addr:street": "CR PM-512, 11,1",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "FELANITX",
+        "is_in:province": "Illes Balears",
+        "name": "Campsa",
+        "opening_hours": "Mo 06:00-22:00",
+        "operator": "Campsa",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1380268,
+          39.465485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008658",
+      "properties": {
+        "@id": "node/287008658",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Alcudia",
+        "opening_hours": "Sa-Su 24/7",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.13481,
+          39.83694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008665",
+      "properties": {
+        "@id": "node/287008665",
+        "addr:country": "ES",
+        "addr:street": "C-712 KM 22.3",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "CA'N PICAFORT",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Sa 06:30-21:00; Su 06:30-14:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15075,
+          39.763139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008668",
+      "properties": {
+        "@id": "node/287008668",
+        "addr:country": "ES",
+        "addr:street": "CR PM-510, 12,1",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "FELANITX",
+        "is_in:province": "Illes Balears",
+        "name": "BP",
+        "opening_hours": "Mo 06:00-22:00",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1437678,
+          39.4750111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008673",
+      "properties": {
+        "@id": "node/287008673",
+        "addr:country": "ES",
+        "addr:street": "CR ART-ALCUDIA (C/PIZARRO Y C/MAR)",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "CA'N PICAFORT",
+        "is_in:province": "Illes Balears",
+        "name": "BP Ca s'Estrella",
+        "opening_hours": "Mo-Sa 06:30-21:00",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1524663,
+          39.7620105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008720",
+      "properties": {
+        "@id": "node/287008720",
+        "addr:country": "ES",
+        "addr:street": "VIA CORNELI ATIC, Nº 5",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PORT D'ALCUDIA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "source": "mityc 20100806",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.123458,
+          39.8434698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008727",
+      "properties": {
+        "@id": "node/287008727",
+        "addr:country": "ES",
+        "addr:street": "CL POLLENTIA ESQ. CL. L,ESTEL, S.N.",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "ALCUDIA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1273595,
+          39.8500803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008739",
+      "properties": {
+        "@id": "node/287008739",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2006458,
+          39.5742409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008749",
+      "properties": {
+        "@id": "node/287008749",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2203327,
+          39.5669477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287008759",
+      "properties": {
+        "@id": "node/287008759",
+        "addr:country": "ES",
+        "addr:street": "CR PM-401, 0,4",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "FELANITX",
+        "is_in:province": "Illes Balears",
+        "name": "Petronor",
+        "opening_hours": "24/7",
+        "operator": "Petronor",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1588244,
+          39.4739223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291520405",
+      "properties": {
+        "@id": "node/291520405",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "operator": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.004684,
+          39.4376011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291550514",
+      "properties": {
+        "@id": "node/291550514",
+        "amenity": "fuel",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7205401,
+          39.5363743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291561407",
+      "properties": {
+        "@id": "node/291561407",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "operator": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8954005,
+          39.4858759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/312822237",
+      "properties": {
+        "@id": "node/312822237",
+        "amenity": "fuel",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5919802,
+          39.5430483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/348138882",
+      "properties": {
+        "@id": "node/348138882",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4515585,
+          39.7052687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/384914507",
+      "properties": {
+        "@id": "node/384914507",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1606231,
+          39.3851439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/384914552",
+      "properties": {
+        "@id": "node/384914552",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Campsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2354609,
+          39.4435781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385545788",
+      "properties": {
+        "@id": "node/385545788",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "opening_hours": "06:00-22:00",
+        "operator": "Elf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0991271,
+          39.8469692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453176001",
+      "properties": {
+        "@id": "node/453176001",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "operator": "Can Parrino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2707444,
+          39.600774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467477838",
+      "properties": {
+        "@id": "node/467477838",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7458288,
+          39.4778856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502266663",
+      "properties": {
+        "@id": "node/502266663",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "opening_hours": "Sa-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1253457,
+          39.3582767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/558946681",
+      "properties": {
+        "@id": "node/558946681",
+        "amenity": "fuel",
+        "name": "CEPSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5075015,
+          39.5599846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/565345735",
+      "properties": {
+        "@id": "node/565345735",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6882567,
+          39.5700853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/678583265",
+      "properties": {
+        "@id": "node/678583265",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Campsa",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8399498,
+          39.6868487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/686660140",
+      "properties": {
+        "@id": "node/686660140",
+        "amenity": "fuel",
+        "brand": "BP",
+        "name": "Marivent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6161189,
+          39.5520969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/691344243",
+      "properties": {
+        "@id": "node/691344243",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Son Oliva",
+        "opening_hours": "24/7",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6620254,
+          39.5866129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/793385529",
+      "properties": {
+        "@id": "node/793385529",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Cepsa",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7597353,
+          39.5010155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839470496",
+      "properties": {
+        "@id": "node/839470496",
+        "addr:country": "ES",
+        "addr:street": "CAMINO DE LAS MARAVILLA, S/N",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PLATJA DE PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.749361,
+          39.521167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839471152",
+      "properties": {
+        "@id": "node/839471152",
+        "addr:country": "ES",
+        "addr:street": "CAMINO REIS, S/N",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.637917,
+          39.595861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839472107",
+      "properties": {
+        "@id": "node/839472107",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA CARRET.PORTO CRISTO-SON SERVERA,KM.5,200 KM 5.200",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "SANT LLORENÇ DES CARDASSAR",
+        "is_in:province": "Illes Balears",
+        "name": "REPSOL",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.361611,
+          39.5805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839472540",
+      "properties": {
+        "@id": "node/839472540",
+        "addr:country": "ES",
+        "addr:housenumber": "44",
+        "addr:street": "CALLE GENERAL RICARDO ORTEGA",
+        "amenity": "fuel",
+        "brand": "Missing",
+        "disused": "yes",
+        "fuel:diesel": "no",
+        "fuel:octane_95": "no",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Sa 8:00-13:30,15:00-20:00",
+        "operator": "No operativa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.662889,
+          39.569306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839475034",
+      "properties": {
+        "@id": "node/839475034",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA PALMA-PORTOPETRO KM. 23",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "LLUCMAJOR",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.881472,
+          39.494556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839475176",
+      "properties": {
+        "@id": "node/839475176",
+        "addr:country": "ES",
+        "addr:street": "CR STA. MARGARITA-PETRA KM 10.7",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "CA'N PICAFORT",
+        "is_in:province": "Illes Balears",
+        "name": "BP - Munar Capó",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.100836,
+          39.7015582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839476193",
+      "properties": {
+        "@id": "node/839476193",
+        "addr:country": "ES",
+        "addr:housenumber": "123",
+        "addr:street": "RONDA RONDA DEL OESTE",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PORTO CRISTO",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.339444,
+          39.547667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839476423",
+      "properties": {
+        "@id": "node/839476423",
+        "addr:country": "ES",
+        "addr:housenumber": "49",
+        "addr:street": "CALLE CORONEL BEORLEGUI",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.634639,
+          39.605028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839477628",
+      "properties": {
+        "@id": "node/839477628",
+        "addr:country": "ES",
+        "addr:street": "Carretera Vella de Bunyola, km 15",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-21:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.668944,
+          39.593333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839477790",
+      "properties": {
+        "@id": "node/839477790",
+        "addr:city": "Alaró",
+        "addr:country": "ES",
+        "addr:housenumber": "95",
+        "addr:postcode": "07340",
+        "addr:street": "Avinguda de la Constitució",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Alaró",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7948723,
+          39.7021554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839477955",
+      "properties": {
+        "@id": "node/839477955",
+        "addr:country": "ES",
+        "addr:housenumber": "1",
+        "addr:street": "CALLE FERRERS",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "MANACOR",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Fr 07:30-14:30",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1853341,
+          39.5722473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839478147",
+      "properties": {
+        "@id": "node/839478147",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA PM-602 KM 8.2",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "LLUCMAJOR",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.789389,
+          39.493778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839478729",
+      "properties": {
+        "@id": "node/839478729",
+        "addr:country": "ES",
+        "addr:housenumber": "16",
+        "addr:street": "CALLE BINIAMAR",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa - El Rafal Nou",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-22:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.678806,
+          39.581722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839480197",
+      "properties": {
+        "@id": "node/839480197",
+        "addr:country": "ES",
+        "addr:housenumber": "33",
+        "addr:street": "CALLE CRISTOFOR COLOM P.COLOM",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PORTOCOLOM",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 08:00-13:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.261655,
+          39.4209702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839480878",
+      "properties": {
+        "@id": "node/839480878",
+        "addr:country": "ES",
+        "addr:housenumber": "201",
+        "addr:street": "Camí dels Reis",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "24/7",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633472,
+          39.593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839482128",
+      "properties": {
+        "@id": "node/839482128",
+        "addr:country": "ES",
+        "addr:housenumber": "24",
+        "addr:street": "carrer del Gremi de Sucrers i Candelers",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Petronor",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "operator": "Petronor",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6640718,
+          39.6108264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839482489",
+      "properties": {
+        "@id": "node/839482489",
+        "addr:country": "ES",
+        "addr:housenumber": "61",
+        "addr:street": "AVENIDA FRANCESC DE BORJA MOLL",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "SALINES (SES)",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo 00:00-24:00",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0461215,
+          39.3413114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839485909",
+      "properties": {
+        "@id": "node/839485909",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA PM-111 KM 8.6",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "VALLDEMOSSA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.648028,
+          39.643333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839486235",
+      "properties": {
+        "@id": "node/839486235",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA PM104 KM 12.8",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "ESPORLES",
+        "is_in:province": "Illes Balears",
+        "name": "Campsa",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Campsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5879909,
+          39.659472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839486634",
+      "properties": {
+        "@id": "node/839486634",
+        "addr:country": "ES",
+        "addr:street": "PLAZA FRANCESC GARCIA I ORELL, S/N",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.660472,
+          39.573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839486984",
+      "properties": {
+        "@id": "node/839486984",
+        "addr:country": "ES",
+        "addr:housenumber": "148",
+        "addr:street": "CALLE CAPITAN RAMONELL BOIX",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "PALMA",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Sa 6:00-22:00",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.682333,
+          39.557861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839487691",
+      "properties": {
+        "@id": "node/839487691",
+        "addr:country": "ES",
+        "addr:housenumber": "87",
+        "addr:street": "VÍA VIA PALMA, 87 (ROTONDA HOSPITAL)",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "MANACOR",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "24/7",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.210466,
+          39.577706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839488769",
+      "properties": {
+        "@id": "node/839488769",
+        "addr:country": "ES",
+        "addr:street": "CARRETERA 3301 KM 1.5",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "SINEU",
+        "is_in:province": "Illes Balears",
+        "name": "BP Son Hugo",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "BP",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0283251,
+          39.6417187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839488900",
+      "properties": {
+        "@id": "node/839488900",
+        "addr:country": "ES",
+        "addr:housenumber": "49",
+        "addr:street": "AVENIDA SANTA MARGARITA",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:diesel_B": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "MURO",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol",
+        "opening_hours": "Mo-Sa 06:30-21:30",
+        "operator": "Repsol",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.059583,
+          39.729306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/839489842",
+      "properties": {
+        "@id": "node/839489842",
+        "addr:country": "ES",
+        "addr:housenumber": "69",
+        "addr:street": "CARRER LA CARRETERA",
+        "amenity": "fuel",
+        "fuel:GTL_diesel": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "LLUBI",
+        "is_in:province": "Illes Balears",
+        "name": "Cepsa",
+        "opening_hours": "Mo-Sa 07:00-13:30,15:00-20:30",
+        "operator": "Cepsa",
+        "source": "mityc 20100806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.005889,
+          39.698694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/930192517",
+      "properties": {
+        "@id": "node/930192517",
+        "addr:city": "Palma",
+        "addr:country": "ES",
+        "addr:housenumber": "5",
+        "addr:postcode": "07009",
+        "addr:street": "carrer del Gremi de Sucrers i Candelers",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Repsol Febrer 09",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6612409,
+          39.6101488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1116751531",
+      "properties": {
+        "@id": "node/1116751531",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6896082,
+          39.7129169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1257038021",
+      "properties": {
+        "@id": "node/1257038021",
+        "amenity": "fuel",
+        "boat": "service",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2622511,
+          39.4212063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1344659570",
+      "properties": {
+        "@id": "node/1344659570",
+        "addr:country": "ES",
+        "addr:housenumber": "70",
+        "addr:street": "carrer de Sant Miquel",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "is_in:municipality": "Palma",
+        "is_in:province": "Illes Balears",
+        "name": "Campsa",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "operator": "Campsa",
+        "source": "mityc 20100729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6524351,
+          39.5769023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581582404",
+      "properties": {
+        "@id": "node/1581582404",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "brand": "Cepsa",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Cepsa CN Palma",
+        "operator": "Cepsa",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633999,
+          39.5647334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784679166",
+      "properties": {
+        "@id": "node/1784679166",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "opening_hours": "Sa-Su 24/7",
+        "operator": "Cepsa",
+        "source": "mytic 20080811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3788079,
+          39.5960273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1845605555",
+      "properties": {
+        "@id": "node/1845605555",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "brand": "Repsol Butano",
+        "fuel:GTL_diesel": "no",
+        "fuel:HGV_diesel": "no",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:cng": "no",
+        "fuel:diesel": "no",
+        "fuel:e10": "no",
+        "fuel:e85": "no",
+        "fuel:electricity": "no",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "no",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "no",
+        "fuel:octane_98": "no",
+        "name": "Repsol Butà",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1595392,
+          39.5735457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939470753",
+      "properties": {
+        "@id": "node/1939470753",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5660879,
+          39.5295257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1961532422",
+      "properties": {
+        "@id": "node/1961532422",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.99908,
+          39.3154405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1961532483",
+      "properties": {
+        "@id": "node/1961532483",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9195249,
+          39.3601831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1961532495",
+      "properties": {
+        "@id": "node/1961532495",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.952399,
+          39.3603407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1961532526",
+      "properties": {
+        "@id": "node/1961532526",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7468351,
+          39.5013218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1961625409",
+      "properties": {
+        "@id": "node/1961625409",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2270401,
+          39.3687299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1965140436",
+      "properties": {
+        "@id": "node/1965140436",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2735957,
+          39.7372352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2427402163",
+      "properties": {
+        "@id": "node/2427402163",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "brand": "Repsol",
+        "fuel:1_25": "yes",
+        "fuel:1_50": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3702538,
+          39.6140373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2462097820",
+      "properties": {
+        "@id": "node/2462097820",
+        "amenity": "fuel",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6257251,
+          39.5566444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2622530943",
+      "properties": {
+        "@id": "node/2622530943",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6764694,
+          39.597191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2712909989",
+      "properties": {
+        "@id": "node/2712909989",
+        "amenity": "fuel",
+        "operator": "cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9182593,
+          39.3606981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884380949",
+      "properties": {
+        "@id": "node/2884380949",
+        "amenity": "fuel",
+        "name": "Cepsa",
+        "operator": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0856765,
+          39.9040164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3091487089",
+      "properties": {
+        "@id": "node/3091487089",
+        "addr:city": "Santa Maria del Camí",
+        "addr:housenumber": "4",
+        "addr:postcode": "07320",
+        "addr:street": "plaça dels Hostals",
+        "amenity": "fuel",
+        "name": "Cepsa Can Ramonet",
+        "operator": "Cepsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7738193,
+          39.6517283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3091630636",
+      "properties": {
+        "@id": "node/3091630636",
+        "amenity": "fuel",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7568262,
+          39.6479643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632860041",
+      "properties": {
+        "@id": "node/3632860041",
+        "amenity": "fuel",
+        "name": "Buga 2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5047396,
+          39.5290369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3710643131",
+      "properties": {
+        "@id": "node/3710643131",
+        "amenity": "fuel",
+        "name": "Galp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.682788,
+          39.5580384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3761239291",
+      "properties": {
+        "@id": "node/3761239291",
+        "amenity": "fuel",
+        "name": "Petroest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6582387,
+          39.6006641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3771792998",
+      "properties": {
+        "@id": "node/3771792998",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Disgasoil",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1476534,
+          39.3712245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3772928830",
+      "properties": {
+        "@id": "node/3772928830",
+        "amenity": "fuel",
+        "name": "Petronor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2271602,
+          39.3788064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4191232477",
+      "properties": {
+        "@id": "node/4191232477",
+        "amenity": "fuel",
+        "disused:amenity": "fuel",
+        "opening_hours": "closed",
+        "operator": "Campsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0188495,
+          39.4327629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4262120750",
+      "properties": {
+        "@id": "node/4262120750",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1454557,
+          39.4677854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4486454289",
+      "properties": {
+        "@id": "node/4486454289",
+        "addr:country": "ES",
+        "amenity": "fuel",
+        "name": "Repsol",
+        "operator": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1098978,
+          39.8143369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4488371743",
+      "properties": {
+        "@id": "node/4488371743",
+        "amenity": "fuel",
+        "brand": "Eroski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8514014,
+          39.6871144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4587222159",
+      "properties": {
+        "@id": "node/4587222159",
+        "amenity": "fuel",
+        "operator": "Carrefour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7050921,
+          39.5515966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4598661040",
+      "properties": {
+        "@id": "node/4598661040",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.031407,
+          39.8854956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4674915582",
+      "properties": {
+        "@id": "node/4674915582",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6738926,
+          39.5914941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4720963987",
+      "properties": {
+        "@id": "node/4720963987",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6858288,
+          39.5670188
+        ]
+      }
+    }
+  ]
+}
