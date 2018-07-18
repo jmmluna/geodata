@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa de Asociaciones de Familiares de Enfermos de Alzheimer de España</name>
+    <description><![CDATA[Este listado de Afa's es proporcionado directamente por Google Maps. Se irá actualizando por a poco hasta completarlo.. Las posiciones, datos y teléfonos son los que google proporciona.]]></description>
+    <Style id="icon-165-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/165-pink-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-165-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/165-pink-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-165-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-165-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-165-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-166-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-166-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-166">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-166-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-166-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-166-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-166-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-166-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-166-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-166-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-168-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-168-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-168-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-168-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-168-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Capa sin nombre</name>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.949361,35.301958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Familiares de Alzheimer de Andalucía</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.427675,36.720434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Alzheimer de Andalucía</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.408938,36.73492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.625974,36.533733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Familiares de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.102804,36.783229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Enfermos de Alzheimer de Pizarra</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.709907,36.761994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.705425,36.825983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afedac Asociación de Familiares de Enfermos de Alzheimer de Antequera y Comarca</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.565498,37.018678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.759794,36.660681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares Alzheimer Mijas</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.637619,36.595699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Familiares Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.872273,41.641775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ceafa Confederación Española de Familiares de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.64646,42.82486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alzheimer Bierzo Asociación de Enfermos de Alzheimer del Bierzo</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.610988,42.547947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afac Asociación de Familiares de Enfermos de Alzheimer de Cantabria</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.779297,43.452919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agadea. Asociación Galega Para A Axuda Dos Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.525391,42.90816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fafal Federación de Asociaciones de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.777373,40.237159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AFAMSO, Asociación de enfermos de Alzheimer Móstoles</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.879896,40.32122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.436868,40.3024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociacion de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02444,39.8686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afads Asociación de Familiares de Enfermos de Alzheimer y Demencias Seniles Vegas Altas de la Serena</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.870363,38.955122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afaex Asociación Familiares de Enfermos de Alzheimer Extremadura</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.97905,38.870084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.024483,39.868578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociacion de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.024357,39.868609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AFAL Tomelloso (Centro de Día San Rafael)</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.007126,39.162279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AFA Parla (Asociación de Familiares de Enfermos de Alzheimer)</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.777424,40.237207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fundación Alzheimer España</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.686821,40.462322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Alzheimer Fundación Reina Sofía Gestión Pública</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.627963,40.37207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Associacio de Familiars d'Alzheimer de Barcelona]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.182307,41.405272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Alzheimer de Cataluña</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.168382,41.398084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Associació de Familiars Amb Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.175002,41.386692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Centre de Dia per malalts d'Alzheimer Cuidem la Memoria]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.14782,41.403005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Alzheimer del Baix Llobregat</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.093047,41.33001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alzheimer León</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.564306,42.588478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asoc Alzheimer Santa Elena</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.99582,37.374121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.752992,37.572427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.32983,35.88619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.32983,35.88619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Cuidadores de Enfermos de Alzeimer Bezmiliana</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.28071,36.71464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Familiares Enfermosde Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.406999,42.141132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Astorga Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.052429,42.45788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Aspe Contra el Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.768186,38.338746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASOCIACIÓN ALZHECON</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.202874,36.790913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AROAL (ASOCIACION RONDEÑA DE ALZHEIMER)</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.152416,36.725814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Ferrolterra</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.217773,43.492783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Enfermos y Colaboradores de Alzheimer de la Marina Baja</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.129651,38.540089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.644808,40.966935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AFA - Asociación de Familiares de Enfermos de Alzheimer de Salamanca</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666468,40.984077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares de Alzheimer de Cornellá de Llobregat</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.080788,41.366493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Alzheimer del Baix Llobregat</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.093047,41.33001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Afa Associació de Familiars de Malalts D'Alzheimer del Maresme]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.449069,41.540035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[AFA Castellón Centro de Día La Vall d'Uixó - Alzheimer]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.233966,39.827214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Enfermos y Colaboradores de Alzheimer de la Marina Baja</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.129651,38.540089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Alzheimer Torrevieja</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.690945,37.978562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Astorga Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.052429,42.45788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa San Paulino Asociación de Familiares de Enfermos de Alzheimer San Paulino</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.91978,36.186584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Enfermos de Alzheimer de Huelva</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.9322,37.261338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa El Trigal Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.833985,37.381438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.752983,37.572415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación de Familiares y Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.679584,38.270177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Faco Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias de Pontevedra</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.646328,42.433763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer del Morrazo</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.732974,42.302703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A.F.A.G.A. Asociación de Familiares de Enfermos de Alzheimer de Galicia</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.70213,42.22668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociacion de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.024401,39.868662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afalmo - Asociación Familiares Alzheimer Mesa Ocaña</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.440805,39.980803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.685825,40.194461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afalcontigo. Asociación Nacional del Alzheimer</name>
+        <styleUrl>#icon-168-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.676816,40.428216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afaex Asociación Familiares de Enfermos de Alzheimer Extremadura</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.624756,38.61687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asoc. de Familiares de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.273193,36.504117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.605774,36.013561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Familiares de Enfermos de Alzheimer de la Línea</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.340729,36.167814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Amigos y Familiares de Enfermos de Alzheimer de Castalla y Comarca</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.674286,38.594334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afav - Asociación de Familiares de Alzheimer de Valencia</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.403748,39.456342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Castellón Asociación de Familiares de Enfermos de Alzheimer de Castellón</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.041199,39.987643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Afam Associació de Familiars de Malalts D'Alzheimer del Montsia]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.579529,40.703546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Associació de Familiars Amb Alzheimer de Lleida</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.615234,41.623655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares Enfermos de Alzheimer de Soria</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.48291,41.771312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Alzheimer Lorca</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.691895,37.666429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer de la Comarca de Cazorla</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.010254,37.909534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Familiares y Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.977051,37.71859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer Afavida</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.691406,36.738884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación San Rafael de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.790039,37.874853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Día de la Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias de Valdepeñas Afa Valdepeñas Gestión Privada</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.383789,38.771216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afade Asociación de Familiares de Enfermos de Alzheimer de Alcantarilla y Otras Demencias Afines</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.230469,37.961523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afade Asociación de Familiares de Enfermos de Alzheimer de Alcantarilla y Otras Demencias Afines</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/-07owXNhLnY6iZjGzSVlfVJigsVNpDscpAn_UtroGnC3Y-XMDqVa_W6iunbVrOWFMg_VB3X39rLoCwM-0PVrYRJFqh-0J2D0cBwi5Zvf4oUMf3KdL812UBl2Z2m-3GLuIp6UgdGS1gNO" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-166</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/-07owXNhLnY6iZjGzSVlfVJigsVNpDscpAn_UtroGnC3Y-XMDqVa_W6iunbVrOWFMg_VB3X39rLoCwM-0PVrYRJFqh-0J2D0cBwi5Zvf4oUMf3KdL812UBl2Z2m-3GLuIp6UgdGS1gNO</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.23042,37.961504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afaex Asociación Familiares de Enfermos de Alzheimer Extremadura</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/5S7jjJQ2UAOofZ7qkgAFL4eI_5CYCHfcAnwOWA7espLG1THJeqKYpsHa4ocsdRKaH0E2FlcRPtD_yzjPfeqCPNRfYKZsOmJJKsqpiLJCYEuqHqWmNAoUiIGscJDzqOqIDjs7xZw1L41Q" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-166</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/5S7jjJQ2UAOofZ7qkgAFL4eI_5CYCHfcAnwOWA7espLG1THJeqKYpsHa4ocsdRKaH0E2FlcRPtD_yzjPfeqCPNRfYKZsOmJJKsqpiLJCYEuqHqWmNAoUiIGscJDzqOqIDjs7xZw1L41Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.624726,38.616856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Cacereña de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.37207,39.470125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares Enfermos de Alzheimer de Coria</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.525879,39.993956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias de Cuenca. Afyedlacu</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.15332,40.061257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afamap Asociación de Familiares y Amigos de Efermos de Alzheimer de Pollença</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.010254,39.876019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INAFA, Asociacion de Enfermos de Alzheimer Y Demencias Afines</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -15.424805,27.916767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afate Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -16.259766,28.459033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer de la Isla de la Palma Afa la Palma</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -17.797852,28.671311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afavila Asociación de Familiares de Enfermos de Alzheimer de Ávila</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.702148,40.647304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.526367,42.000325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afabur Asociación Familiares Enfermos Alzheimer Centro de Día</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.691406,42.326062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Día de la Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias de Valdepeñas Afa Valdepeñas Gestión Privada</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.383789,38.771216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Familiares de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.108887,40.946714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Enfermos Alzheimer de la Comarca de Iscar</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.54834,41.360319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación Familiares Enfermos Alzheimer de Estepona</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.152588,36.430122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Alzheimer Hermana Agustina de Jesús</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.646967,36.862038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Alzheimer Hermana Agustina de Jesús</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vUM1WFUYr2B5K5W7UAtXpUWjtQy9VQBq2QeG_5GmcvEkXVjJfF0Z7VYu2dT9AZx2gGq1V9a3K5P_Wlg9qly5mKI3j87OWSmD_zYDZ2DNV1Gs68rHltfN-5-YKApXCrIv-uPOI7yQyg1G" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-166</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/vUM1WFUYr2B5K5W7UAtXpUWjtQy9VQBq2QeG_5GmcvEkXVjJfF0Z7VYu2dT9AZx2gGq1V9a3K5P_Wlg9qly5mKI3j87OWSmD_zYDZ2DNV1Gs68rHltfN-5-YKApXCrIv-uPOI7yQyg1G</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.646935,36.862045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.778809,37.186579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Alzheimer y Demencias Afines Conde García</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.636475,38.099983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares y Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.042969,38.039439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares y Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.042969,38.039439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afeda Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.339111,38.916682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer AFAMO</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.658203,37.570705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer de Arévalo</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.713135,41.054502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.844971,42.787339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer y Otros Problemas Neurologicos Derivados de la Edad Merindades</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.570557,42.940339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afabur Asociación Familiares Enfermos Alzheimer Información General</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.317871,42.55308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Vizcaya Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.922363,43.253205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afades Asociación de Familiares Enfermos de Alzheimer y Demencias Afines de Álava</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.69165,42.843751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.938843,42.686473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ada Alfaro Asociación Para la Demencia de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.752319,42.179688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Provincial de Alzheimer Guadalajara</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.186035,40.63063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociacio de Familiars y Malalts de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.268921,41.668809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Afama Associació de Familiars de Malats D'Alzheimer de Tárrega I Comarca]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.137085,41.648288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fadesia Familiars Demencia Senil I Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.823486,41.977869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afeda Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.604004,42.065607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.877686,42.4802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Federación de Asociaciones Gallegas de Familiares Enfermos de Alzheimer Fagal</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.554916,42.872442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agadea. Asociación Galega Para A Axuda Dos Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.530884,42.89307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzheimer Inmaculada de Morón</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.449219,37.125286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Enfermos de Alzheimer y Otras Demencias Sierra de Aracena</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.569824,37.892196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afal Asociación de Familiares de Enfermos de Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.15332,39.206719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asoc de Familiares Enfermos Alzheimer de Vallad</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.702148,41.664705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación Familiares y Amigos de Enfermos de Alzheimer de Alcoy</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.472412,38.694085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ffedarm Federación de Alzheimer Región de Murcia</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.131592,37.998327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Estudios Sociales y Atención Alzheimer</name>
+        <styleUrl>#icon-168-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.711662,40.414803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fae Fundación Alzheimer España</name>
+        <styleUrl>#icon-165-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.650208,40.428133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afa Asociación de Alzheimer Alois Alzheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.812256,40.347591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Associació D'Ajuda A Malalts D'Alzheimer]]></name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.960815,42.261049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASOCIACIÓN ALZHECON</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.202874,36.790913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ceafa Confederación Española de Familiares de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.64646,42.82486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ceafa Confederación Española de Familiares de Enfermos de Alzheimer y Otras Demencias</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.64646,42.82486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Día de la Asociación de Familiares de Enfermos de Alzheimer y Otras Demencias de Valdepeñas Afa Valdepeñas Gestión Privada</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3913,38.770681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vitalzheimer, Centro terapéutico de día</name>
+        <styleUrl>#icon-168-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.863086,43.367758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación de Familiares de Enfermos de Alzeheimer</name>
+        <styleUrl>#icon-166-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.399319,43.353741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
