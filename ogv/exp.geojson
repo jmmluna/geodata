@@ -7,7 +7,7 @@
         "ID": 0,
         "NOMBRE_TUT": "Antonio Hernández Calderón",
         "MUNICIPIO": "Zujar",
-        "url-img": "https://github.com/jmmluna/geodata/blob/master/ogv/1.jpg"
+        "url-img": "https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "ID": 0,
         "NOMBRE_TUT": "Antonio Abad Rubio Murillo",
         "MUNICIPIO": "Hinojosa del Duq",
-        "url-img": "https://github.com/jmmluna/geodata/blob/master/ogv/2.jpg"
+        "url-img": "https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "ID": 0,
         "NOMBRE_TUT": "Cayetano Espinola Rodríguez",
         "MUNICIPIO": "San  Nicolas del",
-        "url-img": "https://github.com/jmmluna/geodata/blob/master/ogv/3.jpg"
+        "url-img": "https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/3.jpg"
       },
       "geometry": {
         "type": "Point",
