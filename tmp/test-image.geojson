@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "NOMBRE_TUT": "Antonio Hernández Calderón",
+        "MUNICIPIO": "Zujar",
+        "url-img": "http://farm4.staticflickr.com/3916/14991571391_85d138e947_m.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.831127174454232,
+          37.5154833168305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "NOMBRE_TUT": "Antonio Abad Rubio Murillo",
+        "MUNICIPIO": "Hinojosa del Duq",
+        "url-img": "http://rtcm.geowe.org/img/rtcm-mapa-gris-movil.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.107119892410236,
+          38.46891398958132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 0,
+        "NOMBRE_TUT": "Cayetano Espinola Rodríguez",
+        "MUNICIPIO": "San  Nicolas del",
+        "url-img": "http://rtcm.geowe.org/img/rtcm-mobile-screen.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70549083720731,
+          37.96616144045279
+        ]
+      }
+    }
+  ]
+}
+
