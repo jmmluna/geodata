@@ -7,7 +7,7 @@
         "ID": 0,
         "NOMBRE_TUT": "Antonio Hernández Calderón",
         "MUNICIPIO": "Zujar",
-        "url-img": "https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/1.jpg"
+        "url-img": "img:https://raw.githubusercontent.com/jmmluna/geodata/master/ogv/1.jpg"
       },
       "geometry": {
         "type": "Point",
