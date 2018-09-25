@@ -1,0 +1,178 @@
+
+{
+
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "null",
+                "Dirección": "Plaza Campo Santo de los Mártires, s/n, 14004 Córdoba",
+                "url-img": "null",
+                "Descripción": "El alcázar andalusí, también llamado alcázar califal o alcázar omeya, fue una fortaleza situada en Córdoba (España) de la cual solo quedan algunos restos, incluyendo los baños califales convertidos en museo. El término alcázar andalusí ha venido a sustituir al tradicional de alcázar califal ya que éste fue la sede del gobierno de Al-Ándalus desde la llegada de los musulmanes en el siglo VIII hasta la conquista cristiana, en 1236. Dicho término hace referencia a una serie de construcciones heterogéneas que iban desde las dependencias privadas de emires y califas y sus allegados a las áreas destinadas al servicio, pasando por los diferentes despachos oficiales desde dónde se gobernaba al-Ándalus, todas ellas rodeadas por una muralla que rodeaba una extensión de 39.000 m2. [Wikipedia]]",
+                "info": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_los_Califas_(C%C3%B3rdoba)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.781481706957846,
+                    37.87678199500162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Ategua",
+                "Dirección": "Santa Cruz, Córdoba. junto al cortijo de los Castillejos de Teba. ",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ategua_vista_1.jpg/273px-Ategua_vista_1.jpg",
+                "Descripción": "Ategua es un yacimiento arqueológico de vital importancia situado cerca de Santa Cruz, en un paraje en la cima de una colina conocido también como Cerro de los Castillejos de Teba-Ategua, Despoblado de Teba y Los Castillejos.",
+                "info": "https://es.wikipedia.org/wiki/Ategua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.573053073385439,
+                    37.75536231707688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Yacimiento arqueológico de Cercadilla",
+                "Dirección": "Av. Vía Augusta, 45, 14011 Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/YacimientoCercadilla%285%29.jpg/273px-YacimientoCercadilla%285%29.jpg",
+                "Descripción": "Es un conjunto de restos de épocas tardorromana y altomedieval ubicado en Córdoba, España, en el que se ha descubierto un complejo arquitectónico construido a finales del siglo III que ha sido atribuido al emperador tetrárquico Maximiano (293-305).",
+                "info": "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_Cercadilla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.792256625264448,
+                    37.88809064969249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Poblado ibérico del Cerro de la Cruz",
+                "Dirección": "Ctra. A-339, Km. 37, 14812 Almedinilla, Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Casa_ib%C3%A9rica_en_Almedinilla_-_Rafael_Jim%C3%A9nez.jpg/273px-Casa_ib%C3%A9rica_en_Almedinilla_-_Rafael_Jim%C3%A9nez.jpg",
+                "Descripción": "El poblado ibérico del Cerro de la Cruz se ubica en el término municipal de Almedinilla (Provincia de Córdoba, España), en el área geográfica de la Sierras Subbéticas, que se continúan por territorio de las provincias de Jaén y Granada. Ocupa uno de los típicos anticlinales calizos que conforman la orografía de esta zona. El Cerro de la Cruz domina Almedinilla por el suroeste, ofreciendo una ladera al norte de muy difícil acceso. Data del siglo III a. C., siendo unos de los pocos poblados de Baja Época Ibérica. [Wikipedia]",
+                "info": "https://es.wikipedia.org/wiki/Poblado_ib%C3%A9rico_del_Cerro_de_la_Cruz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.080341618077777,
+                    37.43617557335854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Medina Azahara",
+                "Dirección": "Ctra. Palma del Río, km 5.5, 14005 Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Puerta_del_primer_ministro.JPG/250px-Puerta_del_primer_ministro.JPG",
+                "Descripción": "\"la ciudad resplandeciente\", fue una ciudad palatina construida por Almanzor en el siglo X en las cercanías de Córdoba en la margen derecha del Guadalquivir. Su construcción se produjo entre los años 979 y 987. Almanzor abandonó Medina Azahara, se instaló en ella y la convirtió en el segundo centro administrativo y de poder del Califato, hasta que fue saqueada y destruida en abril de 1009",
+                "info": "https://es.wikipedia.org/wiki/Medina_Azahara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.867643263887368,
+                    37.8860025143296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Yacimiento arqueológico de Torreparedones",
+                "Dirección": "Carretera A-3125, TK 18, 14850 Baena, Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torreparedones%2C_esculturas_foro.jpg/273px-Torreparedones%2C_esculturas_foro.jpg",
+                "Descripción": "s un conjunto arqueológico andaluz ubicado entre los términos municipales de Baena y Castro del Río, en la provincia de Córdoba. Alberga importantes restos de la cultura de tartesios, íberos y romanos, destacando una puerta monumental. Torreparedones es también conocido como Torre de las Vírgenes, encontrándose en la campiña cordobesa entre el término del municipio de Castro del Río. Se encuentra a una elevación de 579,60 m.s.n.m. y estuvo habitada al menos durante 3500 años, desde la Edad del Cobre hasta la Baja Edad Media.. [Wikipedia]",
+                "info": "https://es.wikipedia.org/wiki/Yacimiento_arqueol%C3%B3gico_de_Torreparedones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.373014208067729,
+                    37.75497850401826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Cisternas romanas de Monturque",
+                "Dirección": "Calle de San Mateo, 14930 Monturque, Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cisternas_Romanas_%28Monturque%29.JPG/273px-Cisternas_Romanas_%28Monturque%29.JPG",
+                "Descripción": "Se trata de una construcción hidráulica de época romana, construida en «opus caementicium» y recubierta interiormente con «opus signinum».  Compuesta por doce cámaras cubiertas con bóveda de medio cañón, distribuidas en tres naves paralelas entre sí; cada nave está formada por cuatro cámaras de planta rectangular dotadas de aberturas circulares en su parte superior, que sirven para la ventilación y garantizan la buena conservación del agua. En el exterior de una de las cámaras se abre una prolongación que presenta una trayectoria quebrada y termina en un pequeño pozo de limpieza. [Wikipedia]",
+                "info": "https://es.wikipedia.org/wiki/Cisternas_romanas_de_Monturque"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.579119606655901,
+                    37.47365682281393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Villa romana de El Ruedo",
+                "Dirección": "Carretera A 339 Km 37, 14812 Almedinilla, Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mosaico_%287957864476%29.jpg/273px-Mosaico_%287957864476%29.jpg",
+                "Descripción": "De él se conocen por excavación dos núcleos: una villa romana, de la que se conserva bien la \"pars urbana\" y una necrópolis de inhumación",
+                "info": "https://es.wikipedia.org/wiki/Villa_romana_de_El_Ruedo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.089452285977555,
+                    37.443011617116774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Villa romana de Fuente Álamo",
+                "Dirección": "cv-297 km 3, Puente Genil, Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fuente_%C3%81lamo_%28Puente_Genil%29_%2815717894616%29.jpg/273px-Fuente_%C3%81lamo_%28Puente_Genil%29_%2815717894616%29.jpg",
+                "Descripción": "Un yacimiento arqueológico de gran importancia, la villa romana de Fuente Álamo, en que se han encontrado vestigios de una ocupación ininterrumpida de unos mil años. [Wikipedia]",
+                "info": "https://es.wikipedia.org/wiki/Villa_romana_de_Fuente_%C3%81lamo_(Puente_Genil)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.725360552248006,
+                    37.417334874780444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nombre": "Templo Romano de Córdoba",
+                "Dirección": "Calle Capitulares, s/n, 14003 Córdoba",
+                "url-img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templo_romano_-_C%C3%B3rdoba_%28Espa%C3%B1a%29.jpg/273px-Templo_romano_-_C%C3%B3rdoba_%28Espa%C3%B1a%29.jpg",
+                "Descripción": "Su construcción se comenzó durante el reinado del emperador Claudio (41-54) y se terminó unos cuarenta años después, durante el reinado del emperador Domiciano (81-96), momento en el que se le dota de agua.2​​ Sufrió algunas modificaciones en el siglo II, reformas que parecen coincidir con el cambio de ubicación del foro colonial que se traslada al entorno del actual Convento de Santa Ana.[Wikipedia]",
+                "info": "https://es.wikipedia.org/wiki/Templo_romano_de_C%C3%B3rdoba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.776367253396185,
+                    37.88481412538001
+                ]
+            }
+        }
+    ]
+
+}
