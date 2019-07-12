@@ -25,7 +25,6 @@
         }
     },
     "vector": {
-
         "Medina-azahara": {
             "name": "mi-capa",
             "type": "vector",
@@ -42,7 +41,5 @@
             "format": "geojson",
             "srs": "EPSG:4326"
         }
-
-
     }
 }
