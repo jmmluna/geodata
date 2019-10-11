@@ -1,0 +1,941 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "COD": "RA010",
+        "NAME": "REFUGIO ANTIAÉREO DE LA ESTACIÓN DE VILLAFRANCA",
+        "POSICION": "RA1",
+        "TIPO": "Refugio Antiaéreo",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.536613509235809,
+              37.94964688361778
+            ],
+            [
+              -4.536737726967834,
+              37.94960020049043
+            ],
+            [
+              -4.536773362269039,
+              37.94967183148621
+            ],
+            [
+              -4.536649144441761,
+              37.949718514652716
+            ],
+            [
+              -4.536613509235809,
+              37.94964688361778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "COD": "NI050",
+        "NAME": "NIDO 5 EN COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "NI5",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.604537797455981,
+              37.95763477707002
+            ],
+            [
+              -4.604469721244228,
+              37.95764471774277
+            ],
+            [
+              -4.6044346048998035,
+              37.95760013684548
+            ],
+            [
+              -4.604490518179408,
+              37.95755431417023
+            ],
+            [
+              -4.604582135933386,
+              37.95758010026961
+            ],
+            [
+              -4.604537797455981,
+              37.95763477707002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "COD": "NI040",
+        "NAME": "NIDO 4 EN COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "NI4",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.6064199827149235,
+              37.95677998231226
+            ],
+            [
+              -4.606407230210012,
+              37.95671707258465
+            ],
+            [
+              -4.606474520129669,
+              37.956671093594025
+            ],
+            [
+              -4.6065435765994325,
+              37.95670619830878
+            ],
+            [
+              -4.606511011248446,
+              37.95677873900407
+            ],
+            [
+              -4.6064199827149235,
+              37.95677998231226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "COD": "NI010",
+        "NAME": "NIDO 1 EN COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "NI1",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.612543167501872,
+              37.96040912646406
+            ],
+            [
+              -4.6124852868121,
+              37.960364860156474
+            ],
+            [
+              -4.612506862700495,
+              37.960310492502046
+            ],
+            [
+              -4.612609077336771,
+              37.960300079094736
+            ],
+            [
+              -4.612610653815261,
+              37.960372153272374
+            ],
+            [
+              -4.612543167501872,
+              37.96040912646406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "COD": "NI030",
+        "NAME": "NIDO 3 EN COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "NI3",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.607751857307267,
+              37.96305214598498
+            ],
+            [
+              -4.607682401279971,
+              37.96299902358328
+            ],
+            [
+              -4.607691423069549,
+              37.962890756550046
+            ],
+            [
+              -4.607839553093923,
+              37.96289774355501
+            ],
+            [
+              -4.607853094063838,
+              37.96299669016908
+            ],
+            [
+              -4.607751857307267,
+              37.96305214598498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "COD": "NI020",
+        "NAME": "NIDO 2 EN COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "NI2",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.6141687653976815,
+              37.964991943553976
+            ],
+            [
+              -4.614133836909161,
+              37.96495637507679
+            ],
+            [
+              -4.614166792569516,
+              37.96490185097174
+            ],
+            [
+              -4.614235268520278,
+              37.96490992309075
+            ],
+            [
+              -4.614247634760079,
+              37.96495481318647
+            ],
+            [
+              -4.6141687653976815,
+              37.964991943553976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "COD": "RA020",
+        "NAME": "REFUGIO ANTIAÉREO  COTO RIBERA DE VILLAFRANCA",
+        "POSICION": "RA2",
+        "TIPO": "Refugio Antiaéreo",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.615375543889951,
+              37.964479716318834
+            ],
+            [
+              -4.615284703663174,
+              37.964489975953555
+            ],
+            [
+              -4.615267796380051,
+              37.964237873128226
+            ],
+            [
+              -4.615347454055831,
+              37.96423677906616
+            ],
+            [
+              -4.615375543889951,
+              37.964479716318834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "COD": "TM010",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P01",
+        "TIPO": "Trincheras",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p1.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.548083740730708,
+              37.99075355186921
+            ],
+            [
+              -4.546787304315859,
+              37.9902929771194
+            ],
+            [
+              -4.546942328738841,
+              37.99008366169599
+            ],
+            [
+              -4.547516073840275,
+              37.99029240019137
+            ],
+            [
+              -4.548340082746087,
+              37.99048882868556
+            ],
+            [
+              -4.548083740730708,
+              37.99075355186921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "COD": "TM020",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P02",
+        "TIPO": "Trincheras",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p2.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.548807019853542,
+              37.99049169120807
+            ],
+            [
+              -4.549074377431114,
+              37.98966807736224
+            ],
+            [
+              -4.549391801516554,
+              37.989600811193924
+            ],
+            [
+              -4.549371296160748,
+              37.990249945346335
+            ],
+            [
+              -4.549112684642179,
+              37.99040655666266
+            ],
+            [
+              -4.548807019853542,
+              37.99049169120807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 10,
+        "COD": "TM030",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P03",
+        "TIPO": "Trincheras",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p3.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.550740232635846,
+              37.98874491969603
+            ],
+            [
+              -4.550657131660992,
+              37.988583799608385
+            ],
+            [
+              -4.551261419254669,
+              37.98808016912749
+            ],
+            [
+              -4.55136690884826,
+              37.988222969416185
+            ],
+            [
+              -4.550740232635846,
+              37.98874491969603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11,
+        "COD": "TM050",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P05",
+        "TIPO": "Trincheras",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p5.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.553122645900128,
+              37.98778524036575
+            ],
+            [
+              -4.55227474941297,
+              37.987535088519415
+            ],
+            [
+              -4.552380230543198,
+              37.987137168017625
+            ],
+            [
+              -4.553341388567055,
+              37.98735878702358
+            ],
+            [
+              -4.553122645900128,
+              37.98778524036575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12,
+        "COD": "CD010",
+        "NAME": "COMPLEJO DEFENSIVO DE LAS MOJONERAS",
+        "POSICION": "P06",
+        "TIPO": "Complejo defensivo",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p6.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.540530423872579,
+              37.991672846361595
+            ],
+            [
+              -4.539609235818997,
+              37.9917299717471
+            ],
+            [
+              -4.539518810045117,
+              37.99121747129248
+            ],
+            [
+              -4.538950250365013,
+              37.99071122948719
+            ],
+            [
+              -4.538917127654225,
+              37.990216002466646
+            ],
+            [
+              -4.539985994662098,
+              37.989598204057984
+            ],
+            [
+              -4.540956084714634,
+              37.989702651237295
+            ],
+            [
+              -4.540515612038199,
+              37.99042037143714
+            ],
+            [
+              -4.54038325905517,
+              37.991170101978675
+            ],
+            [
+              -4.540530423872579,
+              37.991672846361595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 13,
+        "COD": "TM071",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P07",
+        "TIPO": "Trincheras al norte del camino",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": "img:https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p7.png"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.539323823109114,
+              37.98842630095767
+            ],
+            [
+              -4.538856521695502,
+              37.98840538137973
+            ],
+            [
+              -4.538455265118048,
+              37.98827545170619
+            ],
+            [
+              -4.53814846690308,
+              37.988306501333355
+            ],
+            [
+              -4.538279992071265,
+              37.98806145643328
+            ],
+            [
+              -4.538526294664817,
+              37.98785996975716
+            ],
+            [
+              -4.538796492681552,
+              37.98771224195099
+            ],
+            [
+              -4.539107618201585,
+              37.98788841031491
+            ],
+            [
+              -4.5392832697605,
+              37.988120423412454
+            ],
+            [
+              -4.539323823109114,
+              37.98842630095767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 14,
+        "COD": "TM072",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P07",
+        "TIPO": "Trincheras al sur del camino",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.539425233007196,
+              37.98783018055454
+            ],
+            [
+              -4.539148069842731,
+              37.987644556482365
+            ],
+            [
+              -4.538883609395437,
+              37.98752184959571
+            ],
+            [
+              -4.538753118720586,
+              37.98727122086552
+            ],
+            [
+              -4.538780681901097,
+              37.98695543966773
+            ],
+            [
+              -4.538924527420236,
+              37.98675529288072
+            ],
+            [
+              -4.539223700701502,
+              37.98690458137481
+            ],
+            [
+              -4.539356075186958,
+              37.98724530506521
+            ],
+            [
+              -4.5394417863578225,
+              37.987532567414696
+            ],
+            [
+              -4.539425233007196,
+              37.98783018055454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 15,
+        "COD": "BU010",
+        "NAME": "BÚNKER DE  VILLAFRANCA",
+        "POSICION": "P08",
+        "TIPO": "Búnker",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.5396273601753325,
+              37.98497072557299
+            ],
+            [
+              -4.539557742355646,
+              37.98490855294675
+            ],
+            [
+              -4.539534975804777,
+              37.9849088510151
+            ],
+            [
+              -4.539579190780144,
+              37.98484518801416
+            ],
+            [
+              -4.539636672037843,
+              37.984871471468225
+            ],
+            [
+              -4.539672140050753,
+              37.98493409119173
+            ],
+            [
+              -4.5396273601753325,
+              37.98497072557299
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 16,
+        "COD": "TM091",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P09",
+        "TIPO": "Parapeto natural",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.543835555365861,
+              37.983113149303804
+            ],
+            [
+              -4.543721536812993,
+              37.983105634145566
+            ],
+            [
+              -4.543708265875076,
+              37.983015688210614
+            ],
+            [
+              -4.543845239022487,
+              37.98303191403534
+            ],
+            [
+              -4.543835555365861,
+              37.983113149303804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 17,
+        "COD": "TM092",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P09",
+        "TIPO": "Trinchera",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.543398603374936,
+              37.983452329649715
+            ],
+            [
+              -4.5433183559108885,
+              37.983426346824686
+            ],
+            [
+              -4.543403002253296,
+              37.98311882735556
+            ],
+            [
+              -4.543505826597886,
+              37.98313550177237
+            ],
+            [
+              -4.543398603374936,
+              37.983452329649715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 18,
+        "COD": "TM093",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P09",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.543246601933818,
+              37.98380579314533
+            ],
+            [
+              -4.543132771077501,
+              37.9838072869766
+            ],
+            [
+              -4.543153461183844,
+              37.98370788330171
+            ],
+            [
+              -4.54329100177317,
+              37.983751138357945
+            ],
+            [
+              -4.543246601933818,
+              37.98380579314533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 19,
+        "COD": "NI060",
+        "NAME": "NIDO ABOVEDADO DE LA SIERREZUELA",
+        "POSICION": "P10",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.530114472373529,
+              37.98855551077157
+            ],
+            [
+              -4.530057552926257,
+              37.988556251424434
+            ],
+            [
+              -4.5300566171069345,
+              37.98851120349429
+            ],
+            [
+              -4.5301135365194245,
+              37.988510462842605
+            ],
+            [
+              -4.530114472373529,
+              37.98855551077157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 20,
+        "COD": "NI070",
+        "NAME": "NIDO CON INSCRIPCIONES DE LA SIERREZUELA",
+        "POSICION": "P10",
+        "TIPO": "Nido de ametralladora",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.529918887628171,
+              37.988458923425895
+            ],
+            [
+              -4.5298505843745005,
+              37.98845981209058
+            ],
+            [
+              -4.529864595652881,
+              37.988414384692625
+            ],
+            [
+              -4.529929148617879,
+              37.988404717790964
+            ],
+            [
+              -4.529918887628171,
+              37.988458923425895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 21,
+        "COD": "TM040",
+        "NAME": "TRINCHERAS DE LAS MOJONERAS",
+        "POSICION": "P04",
+        "TIPO": "Trincheras",
+        "FRENTE": "GUADALQUIVIR",
+        "BANDO": "FRANQUISTA",
+        "url-img": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.551166934274695,
+              37.98791919956857
+            ],
+            [
+              -4.551047554787898,
+              37.98772112486144
+            ],
+            [
+              -4.551431412978852,
+              37.987501158353886
+            ],
+            [
+              -4.5515839548868495,
+              37.98771543365911
+            ],
+            [
+              -4.551166934274695,
+              37.98791919956857
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

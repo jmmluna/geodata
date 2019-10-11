@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [   
+    {
+      "type": "Feature",
+      "properties": {        
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.547569277802279,
+          37.990424504441684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54914801750843,
+          37.99005028660326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p3.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.551006781133053,
+          37.98840836119716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.552790767455955,
+          37.987453068714174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p6.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.539900692563493,
+          37.99058293882812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url-img": "https://github.com/jmmluna/geodata/raw/master/guerra_civil/guerra_civil_p7.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.538800402082815,
+          37.98811423023454
+        ]
+      }
+    }
+  ]
+}
